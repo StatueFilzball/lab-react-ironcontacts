@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.actor-image {
+  height: 100px
+}
